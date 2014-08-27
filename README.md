@@ -24,3 +24,6 @@
 ## Templating
  * specify template engine or not
  * ejs or jade or handlebars
+
+
+https://groups.google.com/forum/#!topic/express-js/OJBc0_S3k3E
